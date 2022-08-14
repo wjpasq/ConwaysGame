@@ -13,4 +13,5 @@ Use the Makefile to compile the game:
   
 Run  
 >./run-conway.o  
+  
 to play the game.  
